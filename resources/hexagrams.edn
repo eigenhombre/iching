@@ -1,3 +1,4 @@
+;; Text adapted from https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching
 [{:n 1,
   :char "乾",
   :char-transl "qián",
