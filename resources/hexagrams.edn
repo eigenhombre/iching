@@ -1,0 +1,512 @@
+[{:n 1,
+  :char "乾",
+  :char-transl "qián",
+  :description
+  "'Force'. Other variations include 'the creative', 'strong action', 'the key', and 'god'. Its inner (lower) trigram is ☰ (乾 qián) force = (天) heaven, and its outer (upper) trigram is the same.",
+  :unicode-char "䷀",
+  :short-description "the Creative Heaven",
+  :elements ["---" "---" "---" "---" "---" "---"]}
+ {:n 2,
+  :char "坤",
+  :char-transl "kūn",
+  :description
+  "'Field'. Other variations include 'the receptive', 'acquiescence', and 'the flow'. Its inner (lower) trigram is ☷ (坤 kūn) field = (地) earth, and its outer (upper) trigram is identical.",
+  :unicode-char "䷁",
+  :short-description "the Receptive Earth",
+  :elements ["- -" "- -" "- -" "- -" "- -" "- -"]}
+ {:n 3,
+  :char "屯",
+  :char-transl "zhūn",
+  :description
+  "'Sprouting'. Other variations include 'difficulty at the beginning', 'gathering support', and 'hoarding'. Its inner (lower) trigram is ☳ (震 zhèn) shake = (雷) thunder, and its outer (upper) trigram is ☵ (坎 kǎn) gorge = (水) water.",
+  :unicode-char "䷂",
+  :short-description "Difficulty at the Beginning",
+  :elements ["---" "- -" "- -" "- -" "---" "- -"]}
+ {:n 4,
+  :char "蒙",
+  :char-transl "méng",
+  :description
+  "'Enveloping'. Other variations include 'youthful folly', 'the young shoot', and 'discovering'. Its inner trigram is ☵ (坎 kǎn) gorge = (水) water. Its outer trigram is ☶ (艮 gèn) bound = (山) mountain.",
+  :unicode-char "䷃",
+  :short-description "Youthful Folly",
+  :elements ["- -" "---" "- -" "- -" "- -" "---"]}
+ {:n 5,
+  :char "需",
+  :char-transl "xū",
+  :description
+  "'Attending'. Other variations include 'waiting', 'moistened', and 'arriving'. Its inner (lower) trigram is ☰ (乾 qián) force = (天) heaven, and its outer (upper) trigram is ☵ (坎 kǎn) gorge = (水) water.",
+  :unicode-char "䷄",
+  :short-description "Waiting",
+  :elements ["---" "---" "---" "- -" "---" "- -"]}
+ {:n 6,
+  :char "訟",
+  :char-transl "sòng",
+  :description
+  "'Arguing'. Other variations include 'conflict' and 'lawsuit'. Its inner (lower) trigram is ☵ (坎 kǎn) gorge = (水) water, and its outer (upper) trigram is ☰ (乾 qián) force = (天) heaven.",
+  :unicode-char "䷅",
+  :short-description "Conflict",
+  :elements ["- -" "---" "- -" "---" "---" "---"]}
+ {:n 7,
+  :char "師",
+  :char-transl "shī",
+  :description
+  "'Leading'. Other variations include 'the army' and 'the troops'. Its inner (lower) trigram is ☵ (坎 kǎn) gorge = (水) water, and its outer (upper) trigram is ☷ (坤 kūn) field = (地) earth.",
+  :unicode-char "䷆",
+  :short-description "the Army",
+  :elements ["- -" "---" "- -" "- -" "- -" "- -"]}
+ {:n 8,
+  :char "比",
+  :char-transl "bǐ",
+  :description
+  "'Grouping'. Other variations include 'holding together' and 'alliance'. Its inner (lower) trigram is ☷ (坤 kūn) field = (地) earth, and its outer (upper) trigram is ☵ (坎 kǎn) gorge = (水) water.",
+  :unicode-char "䷇",
+  :short-description "Holding Together",
+  :elements ["- -" "- -" "- -" "- -" "---" "- -"]}
+ {:n 9,
+  :char "小畜",
+  :char-transl "xiǎo",
+  :description
+  "'Small Accumulating'. Other variations include 'the taming power of the small' and 'small harvest'. Its inner (lower) trigram is ☰ (乾 qián) force = (天) heaven, and its outer (upper) trigram is ☴ (巽 xùn) ground = (風) wind.",
+  :unicode-char "䷈",
+  :short-description "Small Taming",
+  :elements ["---" "---" "---" "- -" "---" "---"]}
+ {:n 10,
+  :char "履",
+  :char-transl "lǚ",
+  :description
+  "'Treading'. Other variations include 'treading (conduct)' and 'continuing'. Its inner (lower) trigram is ☱ (兌 duì) open = (澤) swamp, and its outer (upper) trigram is ☰ (乾 qián) force = (天) heaven.",
+  :unicode-char "䷉",
+  :short-description "Treading",
+  :elements ["---" "---" "- -" "---" "---" "---"]}
+ {:n 11,
+  :char "泰",
+  :char-transl "tài",
+  :description
+  "'Pervading'. Other variations include 'peace' and 'greatness'. Its inner (lower) trigram is ☰ (乾 qián) force = (天) heaven, and its outer (upper) trigram is ☷ (坤 kūn) field = (地) earth.",
+  :unicode-char "䷊",
+  :short-description "Peace",
+  :elements ["---" "---" "---" "- -" "- -" "- -"]}
+ {:n 12,
+  :char "否",
+  :char-transl "pǐ",
+  :description
+  "'Obstruction'. Other variations include 'standstill (stagnation)' and 'selfish persons'. Its inner (lower) trigram is ☷ (坤 kūn) field = (地) earth, and its outer (upper) trigram is ☰ (乾 qián) force = (天) heaven.",
+  :unicode-char "䷋",
+  :short-description "Standstill",
+  :elements ["- -" "- -" "- -" "---" "---" "---"]}
+ {:n 13,
+  :char "同人",
+  :char-transl "tóng",
+  :description
+  "'Concording People'. Other variations include 'fellowship with men' and 'gathering men'. Its inner (lower) trigram is ☲ (離 lí) radiance = (火) fire, and its outer (upper) trigram is ☰ (乾 qián) force = (天) heaven.",
+  :unicode-char "䷌",
+  :short-description "Fellowship",
+  :elements ["---" "- -" "---" "---" "---" "---"]}
+ {:n 14,
+  :char "大有",
+  :char-transl "dà",
+  :description
+  "'Great Possessing'. Other variations include 'possession in great measure' and 'the great possession'. Its inner (lower) trigram is ☰ (乾 qián) force = (天) heaven, and its outer (upper) trigram is ☲ (離 lí) radiance = (火) fire.",
+  :unicode-char "䷍",
+  :short-description "Great Possession",
+  :elements ["---" "---" "---" "---" "- -" "---"]}
+ {:n 15,
+  :char "謙",
+  :char-transl "qiān",
+  :description
+  "'Humbling'. Other variations include 'modesty'. Its inner (lower) trigram is ☶ (艮 gèn) bound = (山) mountain and its outer (upper) trigram is ☷ (坤 kūn) field = (地) earth.",
+  :unicode-char "䷎",
+  :short-description "Modesty",
+  :elements ["- -" "- -" "---" "- -" "- -" "- -"]}
+ {:n 16,
+  :char "豫",
+  :char-transl "yù",
+  :description
+  "'Providing-For'. Other variations include 'enthusiasm' and 'excess'. Its inner (lower) trigram is ☷ (坤 kūn) field = (地) earth, and its outer (upper) trigram is ☳ (震 zhèn) shake = (雷) thunder.",
+  :unicode-char "䷏",
+  :short-description "Enthusiasm",
+  :elements ["- -" "- -" "- -" "---" "- -" "- -"]}
+ {:n 17,
+  :char "隨",
+  :char-transl "suí",
+  :description
+  "'Following'. Its inner (lower) trigram is ☳ (震 zhèn) shake = (雷) thunder, and its outer (upper) trigram is ☱ (兌 duì) open = (澤) swamp.",
+  :unicode-char "䷐",
+  :short-description "Following",
+  :elements ["---" "- -" "- -" "---" "---" "- -"]}
+ {:n 18,
+  :char "蠱",
+  :char-transl "gǔ",
+  :description
+  "'Correcting'. Other variations include 'work on what has been spoiled (decay)', decaying and 'branch'.[1] Its inner (lower) trigram is ☴ (巽 xùn) ground = (風) wind, and its outer (upper) trigram is ☶ (艮 gèn) bound = (山) mountain. Gu is the name of a venom-based poison traditionally used in Chinese witchcraft.",
+  :unicode-char "䷑",
+  :short-description "Work on the Decayed",
+  :elements ["- -" "---" "---" "- -" "- -" "---"]}
+ {:n 19,
+  :char "臨",
+  :char-transl "lín",
+  :description
+  "'Nearing'. Other variations include 'approach' and 'the forest'. Its inner (lower) trigram is ☱ (兌 duì) open = (澤) swamp, and its outer (upper) trigram is ☷ (坤 kūn) field = (地) earth.",
+  :unicode-char "䷒",
+  :short-description "Approach",
+  :elements ["---" "---" "- -" "- -" "- -" "- -"]}
+ {:n 20,
+  :char "觀",
+  :char-transl "guān",
+  :description
+  "'Viewing'. Other variations include 'contemplation (view)' and 'looking up'. Its inner (lower) trigram is ☷ (坤 kūn) field = (地) earth, and its outer (upper) trigram is ☴ (巽 xùn) ground = (風) wind.",
+  :unicode-char "䷓",
+  :short-description "Contemplation",
+  :elements ["- -" "- -" "- -" "- -" "---" "---"]}
+ {:n 21,
+  :char "噬嗑",
+  :char-transl "shì",
+  :description
+  "'Gnawing Bite'. Other variations include 'biting through' and 'biting and chewing'. Its inner (lower) trigram is ☳ (震 zhèn) shake = (雷) thunder, and its outer trigram is ☲ (離 lí) radiance = (火) fire. [2]",
+  :unicode-char "䷔",
+  :short-description "Biting Through",
+  :elements ["---" "- -" "- -" "---" "- -" "---"]}
+ {:n 22,
+  :char "賁",
+  :char-transl "bì",
+  :description
+  "'Adorning'. Other variations include 'grace' and 'luxuriance'. Its inner (lower) trigram is ☲ (離 lí) radiance = (火) fire, and its outer (upper) trigram is ☶ (艮 gèn) bound = (山) mountain. [3]",
+  :unicode-char "䷕",
+  :short-description "Grace",
+  :elements ["---" "- -" "---" "- -" "- -" "---"]}
+ {:n 23,
+  :char "剝",
+  :char-transl "bō",
+  :description
+  "'Stripping'. Other variations include 'splitting apart' and 'flaying'. Its inner trigram is ☷ (坤 kūn) field = (地) earth, and its outer trigram is ☶ (艮 gèn) bound = (山) mountain.",
+  :unicode-char "䷖",
+  :short-description "Splitting Apart",
+  :elements ["- -" "- -" "- -" "- -" "- -" "---"]}
+ {:n 24,
+  :char "復",
+  :char-transl "fù",
+  :description
+  "'Returning'. Other variations include 'return (the turning point)'. Its inner trigram is ☳ (震 zhèn) shake = (雷) thunder, and its outer trigram is ☷ (坤 kūn) field = (地) earth.",
+  :unicode-char "䷗",
+  :short-description "Return",
+  :elements ["---" "- -" "- -" "- -" "- -" "- -"]}
+ {:n 25,
+  :char "無妄",
+  :char-transl "wú",
+  :description
+  "'Without Embroiling'. Other variations include 'innocence (the unexpected)' and 'pestilence'. Its inner trigram is ☳ (震 zhèn) shake = (雷) thunder, and its outer trigram is ☰ (乾 qián) force = (天) heaven.",
+  :unicode-char "䷘",
+  :short-description "Innocence",
+  :elements ["---" "- -" "- -" "---" "---" "---"]}
+ {:n 26,
+  :char "大畜",
+  :char-transl "dà",
+  :description
+  "'Great Accumulating'. Other variations include 'the taming power of the great', 'great storage', and 'potential energy'. Its inner trigram is ☰ (乾 qián) force = (天) heaven, and its outer trigram is ☶ (艮 gèn) bound = (山) mountain.",
+  :unicode-char "䷙",
+  :short-description "Great Taming",
+  :elements ["---" "---" "---" "- -" "- -" "---"]}
+ {:n 27,
+  :char "頤",
+  :char-transl "yí",
+  :description
+  "'Swallowing'. Other variations include 'the corners of the mouth (providing nourishment)', 'jaws' and 'comfort/security'. Its inner trigram is ☳ (震 zhèn) shake = (雷) thunder, and its outer trigram is ☶ (艮 gèn) bound = (山) mountain.",
+  :unicode-char "䷚",
+  :short-description "Mouth Corners",
+  :elements ["---" "- -" "- -" "- -" "- -" "---"]}
+ {:n 28,
+  :char "大過",
+  :char-transl "dà",
+  :description
+  "'Great Exceeding'. Other variations include 'preponderance of the great', 'great surpassing' and 'critical mass'. Its inner trigram is ☴ (巽 xùn) ground = (風) wind, and its outer trigram is ☱ (兌 duì) open = (澤) swamp.",
+  :unicode-char "䷛",
+  :short-description "Great Preponderance",
+  :elements ["- -" "---" "---" "---" "---" "- -"]}
+ {:n 29,
+  :char "坎",
+  :char-transl "kǎn",
+  :description
+  "'Gorge'. Other variations include 'the abyss' (in the oceanographic sense) and 'repeated entrapment'. Its inner trigram is ☵ (坎 kǎn) gorge = (水) water, and its outer trigram is identical.",
+  :unicode-char "䷜",
+  :short-description "the Abysmal Water",
+  :elements ["- -" "---" "- -" "- -" "---" "- -"]}
+ {:n 30,
+  :char "離",
+  :char-transl "lí",
+  :description
+  "'Radiance'. Other variations include 'the clinging, fire' and 'the net'. Its inner trigram is ☲ (離 lí) radiance = (火) fire, and its outer trigram is identical. The origin of the character has its roots in symbols of long-tailed birds such as the peacock or the legendary phoenix.",
+  :unicode-char "䷝",
+  :short-description "the Clinging Fire",
+  :elements ["---" "- -" "---" "---" "- -" "---"]}
+ {:n 31,
+  :char "咸",
+  :char-transl "xián",
+  :description
+  "'Conjoining'. Other variations include 'influence (wooing)' and 'feelings'. Its inner trigram is ☶ (艮 gèn) bound = (山) mountain, and its outer trigram is ☱ (兌 duì) open = (澤) swamp.",
+  :unicode-char "䷞",
+  :short-description "Influence",
+  :elements ["- -" "- -" "---" "---" "---" "- -"]}
+ {:n 32,
+  :char "恆",
+  :char-transl "héng",
+  :description
+  "'Persevering'. Other variations include 'duration' and 'constancy'. Its inner trigram is ☴ (巽 xùn) ground = (風) wind, and its outer trigram is ☳ (震 zhèn) shake = (雷) thunder.",
+  :unicode-char "䷟",
+  :short-description "Duration",
+  :elements ["- -" "---" "---" "---" "- -" "- -"]}
+ {:n 33,
+  :char "遯",
+  :char-transl "dùn",
+  :description
+  "'Retiring'. Other variations include 'retreat' and 'yielding'. Its inner trigram is ☶ (艮 gèn) bound = (山) mountain, and its outer trigram is ☰ (乾 qián) force = (天) heaven.",
+  :unicode-char "䷠",
+  :short-description "Retreat",
+  :elements ["- -" "- -" "---" "---" "---" "---"]}
+ {:n 34,
+  :char "大壯",
+  :char-transl "dà",
+  :description
+  "'Great Invigorating'. Other variations include 'the power of the great' and 'great maturity'. Its inner trigram is ☰ (乾 qián) force = (天) heaven, and its outer trigram is ☳ (震 zhèn) shake = (雷) thunder.",
+  :unicode-char "䷡",
+  :short-description "Great Power",
+  :elements ["---" "---" "---" "---" "- -" "- -"]}
+ {:n 35,
+  :char "晉",
+  :char-transl "jìn",
+  :description
+  "'Prospering'. Other variations include 'progress' and 'aquas'. Its inner trigram is ☷ (坤 kūn) field = (地) earth, and its outer trigram is ☲ (離 lí) radiance = (火) fire.",
+  :unicode-char "䷢",
+  :short-description "Progress",
+  :elements ["- -" "- -" "- -" "---" "- -" "---"]}
+ {:n 36,
+  :char "明夷",
+  :char-transl "míng",
+  :description
+  "'Darkening of the Light'. Other variations include 'brilliance injured' and 'intelligence hidden'. Its inner trigram is ☲ (離 lí) radiance = (火) fire, and its outer trigram is ☷ (坤 kūn) field = (地) earth.",
+  :unicode-char "䷣",
+  :short-description "Darkening of the Light",
+  :elements ["---" "- -" "---" "- -" "- -" "- -"]}
+ {:n 37,
+  :char "家人",
+  :char-transl "jiā",
+  :description
+  "'Dwelling People'. Other variations include 'the family (the clan)' and 'family members'. Its inner trigram is ☲ (離 lí) radiance = (火) fire, and its outer trigram is ☴ (巽 xùn) ground = (風) wind.",
+  :unicode-char "䷤",
+  :short-description "the Family",
+  :elements ["---" "- -" "---" "- -" "---" "---"]}
+ {:n 38,
+  :char "睽",
+  :char-transl "kuí",
+  :description
+  "'Polarising'. Other variations include 'opposition' and 'perversion'. Its inner trigram is ☱ (兌 duì) open = (澤) swamp, and its outer trigram is ☲ (離 lí) radiance = (火) fire.",
+  :unicode-char "䷥",
+  :short-description "Opposition",
+  :elements ["---" "---" "- -" "---" "- -" "---"]}
+ {:n 39,
+  :char "蹇",
+  :char-transl "jiǎn",
+  :description
+  "'Limping'. Other variations include 'obstruction' and 'afoot'. Its inner trigram is ☶ (艮 gèn) bound = (山) mountain, and its outer trigram is ☵ (坎 kǎn) gorge = (水) water.",
+  :unicode-char "䷦",
+  :short-description "Obstruction",
+  :elements ["- -" "- -" "---" "- -" "---" "- -"]}
+ {:n 40,
+  :char "解",
+  :char-transl "xiè",
+  :description
+  "'Taking-Apart'. Other variations include 'deliverance' and 'untangled'. Its inner trigram is ☵ (坎 kǎn) gorge = (水) water, and its outer trigram is ☳ (震 zhèn) shake = (雷) thunder.",
+  :unicode-char "䷧",
+  :short-description "Deliverance",
+  :elements ["- -" "---" "- -" "---" "- -" "- -"]}
+ {:n 41,
+  :char "損",
+  :char-transl "sǔn",
+  :description
+  "'Diminishing'. Other variations include 'decrease'. Its inner trigram is ☱ (兌 duì) open = (澤) swamp, and its outer trigram is ☶ (艮 gèn) bound = (山) mountain.",
+  :unicode-char "䷨",
+  :short-description "Decrease",
+  :elements ["---" "---" "- -" "- -" "- -" "---"]}
+ {:n 42,
+  :char "益",
+  :char-transl "yì",
+  :description
+  "'Augmenting'. Other variations include 'increase'. Its inner trigram is ☳ (震 zhèn) shake = (雷) thunder, and its outer trigram is ☴ (巽 xùn) ground = (風) wind.",
+  :unicode-char "䷩",
+  :short-description "Increase",
+  :elements ["---" "- -" "- -" "- -" "---" "---"]}
+ {:n 43,
+  :char "夬",
+  :char-transl "guài",
+  :description
+  "'Displacement'. Other variations include 'resoluteness', 'parting', and 'break-through'. Its inner trigram is ☰ (乾 qián) force = (天) heaven, and its outer trigram is ☱ (兌 duì) open = (澤) swamp.",
+  :unicode-char "䷪",
+  :short-description "Breakthrough",
+  :elements ["---" "---" "---" "---" "---" "- -"]}
+ {:n 44,
+  :char "姤",
+  :char-transl "gòu",
+  :description
+  "'Coupling'. Other variations include 'coming to meet' and 'meeting'. Its inner trigram is ☴ (巽 xùn) ground = (風) wind, and its outer trigram is ☰ (乾 qián) force = (天) heaven.",
+  :unicode-char "䷫",
+  :short-description "Coming to Meet",
+  :elements ["- -" "---" "---" "---" "---" "---"]}
+ {:n 45,
+  :char "萃",
+  :char-transl "cuì",
+  :description
+  "'Clustering'. Other variations include 'gathering together (massing)' and 'finished'. Its inner trigram is ☷ (坤 kūn) field = (地) earth, and its outer trigram is ☱ (兌 duì) open = (澤) swamp.",
+  :unicode-char "䷬",
+  :short-description "Gathering Together",
+  :elements ["- -" "- -" "- -" "---" "---" "- -"]}
+ {:n 46,
+  :char "升",
+  :char-transl "shēng",
+  :description
+  "'Ascending'. Other variations include 'pushing upward'. Its inner trigram is ☴ (巽 xùn) ground = (風) wind, and its outer trigram is ☷ (坤 kūn) field = (地) earth.",
+  :unicode-char "䷭",
+  :short-description "Pushing Upward",
+  :elements ["- -" "---" "---" "- -" "- -" "- -"]}
+ {:n 47,
+  :char "困",
+  :char-transl "kùn",
+  :description
+  "'Confining'. Other variations include 'oppression (exhaustion)' and 'entangled'. Its inner trigram is ☵ (坎 kǎn) gorge = (水) water, and its outer trigram is ☱ (兌 duì) open = (澤) swamp.",
+  :unicode-char "䷮",
+  :short-description "Oppression",
+  :elements ["- -" "---" "- -" "---" "---" "- -"]}
+ {:n 48,
+  :char "井",
+  :char-transl "jǐng",
+  :description
+  "'Welling'. Other variations include 'the well'. Its inner trigram is ☴ (巽 xùn) ground = (風) wind, and its outer trigram is ☵ (坎 kǎn) gorge = (水) water.",
+  :unicode-char "䷯",
+  :short-description "the Well",
+  :elements ["- -" "---" "---" "- -" "---" "- -"]}
+ {:n 49,
+  :char "革",
+  :char-transl "gé",
+  :description
+  "'Skinning'. Other variations include 'revolution (molting)' and 'the bridle'. Its inner trigram is ☲ (離 lí) radiance = (火) fire, and its outer trigram is ☱ (兌 duì) open = (澤) swamp.",
+  :unicode-char "䷰",
+  :short-description "Revolution",
+  :elements ["---" "- -" "---" "---" "---" "- -"]}
+ {:n 50,
+  :char "鼎",
+  :char-transl "dǐng",
+  :description
+  "'Holding'. Other variations include 'the cauldron'. Its inner trigram is ☴ (巽 xùn) ground = (風) wind, and its outer trigram is ☲ (離 lí) radiance = (火) fire.",
+  :unicode-char "䷱",
+  :short-description "the Cauldron",
+  :elements ["- -" "---" "---" "---" "- -" "---"]}
+ {:n 51,
+  :char "震",
+  :char-transl "zhèn",
+  :description
+  "'Shake'. Other variations include 'the arousing (shock, thunder)' and 'thunder'. Both its inner and outer trigrams are ☳ (震 zhèn) shake = (雷) thunder.",
+  :unicode-char "䷲",
+  :short-description "the Arousing Thunder",
+  :elements ["---" "- -" "- -" "---" "- -" "- -"]}
+ {:n 52,
+  :char "艮",
+  :char-transl "gèn",
+  :description
+  "'Bound'. Other variations include 'keeping still, mountain' and 'stilling'. Both its inner and outer trigrams are ☶ (艮 gèn) bound = (山) mountain.",
+  :unicode-char "䷳",
+  :short-description "the Keeping Still Mountain",
+  :elements ["- -" "- -" "---" "- -" "- -" "---"]}
+ {:n 53,
+  :char "漸",
+  :char-transl "jiàn",
+  :description
+  "'Infiltrating'. Other variations include 'development (gradual progress)' and 'advancement'. Its inner trigram is ☶ (艮 gèn) bound = (山) mountain, and its outer trigram is ☴ (巽 xùn) ground = (風) wind.",
+  :unicode-char "䷴",
+  :short-description "Development",
+  :elements ["- -" "- -" "---" "- -" "---" "---"]}
+ {:n 54,
+  :char "歸妹",
+  :char-transl "guī",
+  :description
+  "'Converting the Maiden'. Other variations include 'the marrying maiden' and 'returning maiden'. Its inner trigram is ☱ (兌 duì) open = (澤) swamp, and its outer trigram is ☳ (震 zhèn) shake = (雷) thunder.",
+  :unicode-char "䷵",
+  :short-description "the Marrying Maiden",
+  :elements ["---" "---" "- -" "---" "- -" "- -"]}
+ {:n 55,
+  :char "豐",
+  :char-transl "fēng",
+  :description
+  "'Abounding'. Other variations include 'abundance' and 'fullness'. Its inner trigram is ☲ (離 lí) radiance = (火) fire, and its outer trigram is ☳ (震 zhèn) shake = (雷) thunder.",
+  :unicode-char "䷶",
+  :short-description "Abundance",
+  :elements ["---" "- -" "---" "---" "- -" "- -"]}
+ {:n 56,
+  :char "旅",
+  :char-transl "lǚ",
+  :description
+  "'Sojourning'. Other variations include 'the wanderer' and 'traveling'. Its inner trigram is ☶ (艮 gèn) bound = (山) mountain, and its outer trigram is ☲ (離 lí) radiance = (火) fire.",
+  :unicode-char "䷷",
+  :short-description "the Wanderer",
+  :elements ["- -" "- -" "---" "---" "- -" "---"]}
+ {:n 57,
+  :char "巽",
+  :char-transl "xùn",
+  :description
+  "'Ground'. Other variations include 'the gentle (the penetrating, wind)' and 'calculations'. Both its inner and outer trigrams are ☴ (巽 xùn) ground = (風) wind.",
+  :unicode-char "䷸",
+  :short-description "the Gentle Wind",
+  :elements ["- -" "---" "---" "- -" "---" "---"]}
+ {:n 58,
+  :char "兌",
+  :char-transl "duì",
+  :description
+  "'Open'. Other variations include 'the joyous, lake' and 'usurpation'. Both its inner and outer trigrams are ☱ (兌 duì) open = (澤) swamp.",
+  :unicode-char "䷹",
+  :short-description "the Joyous Lake",
+  :elements ["---" "---" "- -" "---" "---" "- -"]}
+ {:n 59,
+  :char "渙",
+  :char-transl "huàn",
+  :description
+  "'Dispersing'. Other variations include 'dispersion (dissolution)' and 'dispersal'. Its inner trigram is ☵ (坎 kǎn) gorge = (水) water, and its outer trigram is ☴ (巽 xùn) ground = (風) wind.",
+  :unicode-char "䷺",
+  :short-description "Dispersion",
+  :elements ["- -" "---" "- -" "- -" "---" "---"]}
+ {:n 60,
+  :char "節",
+  :char-transl "jié",
+  :description
+  "'Articulating'. Other variations include 'limitation' and 'moderation'. Its inner trigram is ☱ (兌 duì) open = (澤) swamp, and its outer trigram is ☵ (坎 kǎn) gorge = (水) water.",
+  :unicode-char "䷻",
+  :short-description "Limitation",
+  :elements ["---" "---" "- -" "- -" "---" "- -"]}
+ {:n 61,
+  :char "中孚",
+  :char-transl "zhōng",
+  :description
+  "'Center Returning'. Other variations include 'inner truth' and 'central return'. Its inner trigram is ☱ (兌 duì) open = (澤) swamp, and its outer trigram is ☴ (巽 xùn) ground = (風) wind.",
+  :unicode-char "䷼",
+  :short-description "Inner Truth",
+  :elements ["---" "---" "- -" "- -" "---" "---"]}
+ {:n 62,
+  :char "小過",
+  :char-transl "xiǎo",
+  :description
+  "'Small Exceeding'. Other variations include 'preponderance of the small' and 'small surpassing'. Its inner trigram is ☶ (艮 gèn) bound = (山) mountain, and its outer trigram is ☳ (震 zhèn) shake = (雷) thunder.",
+  :unicode-char "䷽",
+  :short-description "Small Preponderance",
+  :elements ["- -" "- -" "---" "---" "- -" "- -"]}
+ {:n 63,
+  :char "既濟",
+  :char-transl "jì",
+  :description
+  "'Already Fording'. Other variations include 'after completion' and 'already completed' or 'already done' . Its inner trigram is ☲ (離 lí) radiance = (火) fire, and its outer trigram is ☵ (坎 kǎn) gorge = (水) water.",
+  :unicode-char "䷾",
+  :short-description "After Completion",
+  :elements ["---" "- -" "---" "- -" "---" "- -"]}
+ {:n 64,
+  :char "未濟",
+  :char-transl "wèi",
+  :description
+  "'Not Yet Fording'. Other variations include 'before completion' and 'not yet completed'. Its inner trigram is ☵ (坎 kǎn) gorge = (水) water, and its outer trigram is ☲ (離 lí) radiance = (火) fire.",
+  :unicode-char "䷿",
+  :short-description "Before Completion",
+  :elements ["- -" "---" "- -" "---" "- -" "---"]}]
