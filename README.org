@@ -1,0 +1,22 @@
+* The I Ching (Yìjīng / 易經)
+
+** Requirements:
+
+Clojure 1.9 or above.
+
+** Example:
+
+#+BEGIN_SRC
+$ clojure -Aoracle
+▀▀▀▀▀▀   ▀▀▀▀▀▀
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+▀▀▀▀▀▀   ▀▀▀▀▀▀
+▀▀▀▀▀▀   ▀▀▀▀▀▀
+▀▀▀▀▀▀   ▀▀▀▀▀▀
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+Number 3 屯 (zhūn)
+'Sprouting'. Other variations include 'difficulty at the beginning',
+'gathering support', and 'hoarding'. Its inner (lower) trigram is ☳
+(震 zhèn) shake = (雷) thunder, and its outer (upper) trigram is ☵ (坎
+kǎn) gorge = (水) water.
+#+END_SRC
